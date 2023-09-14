@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Harshad Mane</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+ <img align="left" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
+ <img align="right" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
 
 <!--🖼️RICK-->
 <p align="center">
@@ -45,9 +47,8 @@
     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=labsvelns&show_icons=True&theme=radical" alt="labsvelns" /></p>
 </div>
 
-<p>
- <img align="center" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
-</p>
+
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img align="left" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
