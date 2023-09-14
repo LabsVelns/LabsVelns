@@ -10,7 +10,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labsvelns&label=Profile%20views&color=0e75b6&style=flat" alt="labsvelns" /> </p>
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=labsvelns&layout=compact&theme=algolia" alt="labsvelns" />
  </a>
@@ -52,7 +52,7 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="left" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+    <img align="left" height="250" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=labsvelns&theme=react" alt="labsvelns" />
 </div>
 
