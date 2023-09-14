@@ -1,11 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Harshad Mane</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
 <!--🖼️RICK-->
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 <h3 align="center">A passionate Fresher Machine Learning/Deep Learning/Natural Language Processing Engineer from India</h3>
-
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labsvelns&label=Profile%20views&color=0e75b6&style=flat" alt="labsvelns" /> </p>
 
 <p align="center">
@@ -32,24 +34,26 @@
 
 
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
-<p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=labsvelns&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="labsvelns" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=labsvelns&show_icons=True&theme=radical" alt="labsvelns" /></p>
 
 
 
-
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
-</p>
 
 
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="left" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=labsvelns&" alt="labsvelns" />
+    <img align="center" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+    <p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=labsvelns&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="labsvelns" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=labsvelns&show_icons=True&theme=radical" alt="labsvelns" /></p>
 </div>
+
+<p>
+ <img align="center" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
+</p>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img align="left" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=labsvelns&theme=react" alt="labsvelns" />
+</div>
+
+
