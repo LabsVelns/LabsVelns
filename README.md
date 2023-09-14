@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 <h3 align="center">A passionate Fresher Machine Learning/Deep Learning/Natural Language Processing Engineer from India</h3>
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labsvelns&label=Profile%20views&color=0e75b6&style=flat" alt="labsvelns" /> </p>
 
 <p align="left">
