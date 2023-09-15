@@ -1,15 +1,28 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=labsvelns&label=Profile%20views&color=0e75b6&style=flat" alt="labsvelns" /> </p>
 
-<h1 align="center">Hi 👋, I'm Harshad Mane</h1>
+<p align="center"><a href="https://github.com/shamimsikder"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=450&lines=Hi+There%2C+I'm+Harshad+Mane%F0%9F%91%8B;A+Self+motivated+Tech+Enthusiast;Always+Learning+New+Things;Savage+by+nature,+civilized+by+choice" alt="Typing SVG" /></a></p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
  <img align="left" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
  <img align="right" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
 
+ 
+
 <!--🖼️RICK-->
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-<h3 align="center">A passionate Fresher Machine Learning/Deep Learning/Natural Language Processing Engineer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=labsvelns&label=Profile%20views&color=0e75b6&style=flat" alt="labsvelns" /> </p>
+
+
+<div align="center">
+ 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+You+can+find+my+Projects+on+below+link)
+</div>
+<h3 align="center">
+  
+  [PROJECTS](https://github.com/LabsVelns?tab=repositories) </h3>
+
+
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
