@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labsvelns&label=Profile%20views&color=0e75b6&style=flat" alt="labsvelns" /> </p>
 
-<p align="center"><a href="https://github.com/shamimsikder"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=450&lines=Hi+There%2C+I'm+Harshad+Mane%F0%9F%91%8B;A+Self+motivated+Tech+Enthusiast;Always+Learning+New+Things;Savage+by+nature,+civilized+by+choice" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/labsvelns"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=450&lines=Hi+There%2C+I'm+Harshad+Mane%F0%9F%91%8B;A+Self+motivated+Tech+Enthusiast;Always+Learning+New+Things;Savage+by+nature,+civilized+by+choice" alt="Typing SVG" /></a></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
